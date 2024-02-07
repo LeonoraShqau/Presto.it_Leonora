@@ -1,0 +1,20 @@
+{
+  "public/img/HEADER4.jpg": {
+    "file": "assets/HEADER4-gZOQJnyu.jpg",
+    "src": "public/img/HEADER4.jpg"
+  },
+  "public/img/HEADER7.jpg": {
+    "file": "assets/HEADER7-5MNn381W.jpg",
+    "src": "public/img/HEADER7.jpg"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-rk4gdXp5.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-bwfrnkt3.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
